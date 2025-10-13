@@ -1,0 +1,124 @@
+{
+  "services": [
+    {
+      "name": "Web Development",
+      "slug": "web-development",
+      "description": "Full-stack website development using modern technologies.",
+      "price": 1200
+    },
+    {
+      "name": "UI/UX Design",
+      "slug": "ui-ux-design",
+      "description": "Intuitive and responsive user interface design for web and mobile.",
+      "price": 800
+    },
+    {
+      "name": "SEO Optimization",
+      "slug": "seo-optimization",
+      "description": "Improve search rankings and increase organic traffic.",
+      "price": 500
+    },
+    {
+      "name": "Mobile App Development",
+      "slug": "mobile-app-development",
+      "description": "Cross-platform mobile app development for iOS and Android.",
+      "price": 1500
+    },
+    {
+      "name": "Brand Strategy",
+      "slug": "brand-strategy",
+      "description": "Develop brand identity, tone, and marketing guidelines.",
+      "price": 900
+    },
+    {
+      "name": "E-commerce Solutions",
+      "slug": "ecommerce-solutions",
+      "description": "Custom online stores with secure payment gateways.",
+      "price": 1400
+    },
+    {
+      "name": "Cloud Deployment",
+      "slug": "cloud-deployment",
+      "description": "Setup and deploy scalable cloud-based infrastructures.",
+      "price": 1100
+    },
+    {
+      "name": "API Integration",
+      "slug": "api-integration",
+      "description": "Connect third-party services and automate workflows.",
+      "price": 700
+    },
+    {
+      "name": "Content Writing",
+      "slug": "content-writing",
+      "description": "Professional and SEO-optimized content for your brand.",
+      "price": 300
+    },
+    {
+      "name": "Graphic Design",
+      "slug": "graphic-design",
+      "description": "Custom graphics, posters, and digital illustrations.",
+      "price": 400
+    },
+    {
+      "name": "Video Editing",
+      "slug": "video-editing",
+      "description": "Professional video editing for marketing or branding.",
+      "price": 600
+    },
+    {
+      "name": "Social Media Management",
+      "slug": "social-media-management",
+      "description": "Manage and grow your social presence across platforms.",
+      "price": 700
+    },
+    {
+      "name": "Digital Marketing",
+      "slug": "digital-marketing",
+      "description": "Comprehensive ad campaigns and lead generation.",
+      "price": 1000
+    },
+    {
+      "name": "Cybersecurity Audit",
+      "slug": "cybersecurity-audit",
+      "description": "Identify vulnerabilities and secure your digital assets.",
+      "price": 1300
+    },
+    {
+      "name": "Maintenance & Support",
+      "slug": "maintenance-support",
+      "description": "24/7 technical support and performance optimization.",
+      "price": 400
+    },
+    {
+      "name": "Database Management",
+      "slug": "database-management",
+      "description": "Design, optimize, and maintain relational databases.",
+      "price": 850
+    },
+    {
+      "name": "Performance Optimization",
+      "slug": "performance-optimization",
+      "description": "Improve load times and overall application speed.",
+      "price": 500
+    },
+    {
+      "name": "Hosting Setup",
+      "slug": "hosting-setup",
+      "description": "Reliable and secure hosting configuration.",
+      "price": 250
+    },
+    {
+      "name": "Email Marketing",
+      "slug": "email-marketing",
+      "description": "Build targeted email campaigns to engage customers.",
+      "price": 350
+    },
+    {
+      "name": "Consultation & Training",
+      "slug": "consultation-training",
+      "description": "Personalized guidance on tech stack and best practices.",
+      "price": 200
+    }
+  ]
+}
