@@ -3,122 +3,152 @@
     {
       "name": "Web Development",
       "slug": "web-development",
+      "category": "Development",
+      "excerpt": "Build robust, scalable websites using the latest web technologies.",
       "description": "Full-stack website development using modern technologies.",
-      "price": 1200
+      "details": "Our web development service delivers fully responsive, SEO-friendly, and scalable websites. We specialize in React, Node.js, and Next.js to ensure fast performance and seamless functionality.",
+      "price": 1200,
+      "featured_image": "https://placehold.co/600x400?text=Web+Development",
+      "gallery_images": [
+        "https://placehold.co/600x400?text=Frontend+UI",
+        "https://placehold.co/600x400?text=Backend+API",
+        "https://placehold.co/600x400?text=Deployment"
+      ]
     },
     {
       "name": "UI/UX Design",
       "slug": "ui-ux-design",
+      "category": "Design",
+      "excerpt": "Beautiful and intuitive interfaces for web and mobile experiences.",
       "description": "Intuitive and responsive user interface design for web and mobile.",
-      "price": 800
+      "details": "We craft engaging digital experiences with a focus on user behavior, accessibility, and design systems. Our process includes wireframing, prototyping, and usability testing.",
+      "price": 800,
+      "featured_image": "https://placehold.co/600x400?text=UI+UX+Design",
+      "gallery_images": [
+        "https://placehold.co/600x400?text=Wireframes",
+        "https://placehold.co/600x400?text=Prototypes",
+        "https://placehold.co/600x400?text=Final+Mockups"
+      ]
     },
     {
       "name": "SEO Optimization",
       "slug": "seo-optimization",
+      "category": "Marketing",
+      "excerpt": "Boost your rankings and increase organic website traffic.",
       "description": "Improve search rankings and increase organic traffic.",
-      "price": 500
+      "details": "Our SEO services include keyword strategy, on-page optimization, and link building. We use analytics and continuous monitoring to ensure long-term visibility and results.",
+      "price": 500,
+      "featured_image": "https://placehold.co/600x400?text=SEO+Optimization",
+      "gallery_images": [
+        "https://placehold.co/600x400?text=Keyword+Research",
+        "https://placehold.co/600x400?text=Analytics",
+        "https://placehold.co/600x400?text=Backlinks"
+      ]
     },
     {
       "name": "Mobile App Development",
       "slug": "mobile-app-development",
+      "category": "Development",
+      "excerpt": "Cross-platform apps that perform seamlessly on all devices.",
       "description": "Cross-platform mobile app development for iOS and Android.",
-      "price": 1500
+      "details": "We build mobile apps with React Native and Flutter that offer exceptional performance, sleek design, and easy scalability. Our apps are optimized for App Store and Play Store releases.",
+      "price": 1500,
+      "featured_image": "https://placehold.co/600x400?text=Mobile+App+Development",
+      "gallery_images": [
+        "https://placehold.co/600x400?text=App+UI",
+        "https://placehold.co/600x400?text=Development",
+        "https://placehold.co/600x400?text=Launch"
+      ]
     },
     {
       "name": "Brand Strategy",
       "slug": "brand-strategy",
+      "category": "Branding",
+      "excerpt": "Define your brand identity and voice for a stronger market presence.",
       "description": "Develop brand identity, tone, and marketing guidelines.",
-      "price": 900
+      "details": "Our team helps you establish a clear brand vision, consistent messaging, and memorable identity. We create style guides and communication frameworks for long-term growth.",
+      "price": 900,
+      "featured_image": "https://placehold.co/600x400?text=Brand+Strategy",
+      "gallery_images": [
+        "https://placehold.co/600x400?text=Logo+Concepts",
+        "https://placehold.co/600x400?text=Brand+Guidelines",
+        "https://placehold.co/600x400?text=Color+Palettes"
+      ]
     },
     {
       "name": "E-commerce Solutions",
       "slug": "ecommerce-solutions",
+      "category": "Development",
+      "excerpt": "Launch a custom online store with secure payment systems.",
       "description": "Custom online stores with secure payment gateways.",
-      "price": 1400
+      "details": "We develop scalable e-commerce platforms using Shopify, WooCommerce, or custom frameworks. Features include inventory management, cart optimization, and analytics integration.",
+      "price": 1400,
+      "featured_image": "https://placehold.co/600x400?text=Ecommerce+Solutions",
+      "gallery_images": [
+        "https://placehold.co/600x400?text=Store+UI",
+        "https://placehold.co/600x400?text=Checkout",
+        "https://placehold.co/600x400?text=Analytics"
+      ]
     },
     {
       "name": "Cloud Deployment",
       "slug": "cloud-deployment",
+      "category": "Infrastructure",
+      "excerpt": "Scale and deploy your applications securely in the cloud.",
       "description": "Setup and deploy scalable cloud-based infrastructures.",
-      "price": 1100
+      "details": "We provide AWS, Azure, and Google Cloud setup, CI/CD pipelines, and monitoring solutions to ensure reliability and high uptime for your apps.",
+      "price": 1100,
+      "featured_image": "https://placehold.co/600x400?text=Cloud+Deployment",
+      "gallery_images": [
+        "https://placehold.co/600x400?text=Server+Setup",
+        "https://placehold.co/600x400?text=CI-CD",
+        "https://placehold.co/600x400?text=Monitoring"
+      ]
     },
     {
       "name": "API Integration",
       "slug": "api-integration",
+      "category": "Development",
+      "excerpt": "Integrate third-party services and automate business workflows.",
       "description": "Connect third-party services and automate workflows.",
-      "price": 700
+      "details": "Our API integration services include connecting CRMs, payment systems, and analytics tools. We ensure seamless communication and data flow across your platforms.",
+      "price": 700,
+      "featured_image": "https://placehold.co/600x400?text=API+Integration",
+      "gallery_images": [
+        "https://placehold.co/600x400?text=REST+API",
+        "https://placehold.co/600x400?text=Auth+Flow",
+        "https://placehold.co/600x400?text=Data+Sync"
+      ]
     },
     {
       "name": "Content Writing",
       "slug": "content-writing",
+      "category": "Marketing",
+      "excerpt": "Engaging and SEO-optimized content tailored to your audience.",
       "description": "Professional and SEO-optimized content for your brand.",
-      "price": 300
+      "details": "From blogs to web copy, we craft compelling narratives that drive engagement and conversions. Our writers focus on clarity, tone, and storytelling.",
+      "price": 300,
+      "featured_image": "https://placehold.co/600x400?text=Content+Writing",
+      "gallery_images": [
+        "https://placehold.co/600x400?text=Copywriting",
+        "https://placehold.co/600x400?text=SEO+Content",
+        "https://placehold.co/600x400?text=Editing"
+      ]
     },
     {
       "name": "Graphic Design",
       "slug": "graphic-design",
+      "category": "Design",
+      "excerpt": "Creative visuals that elevate your brand across all platforms.",
       "description": "Custom graphics, posters, and digital illustrations.",
-      "price": 400
-    },
-    {
-      "name": "Video Editing",
-      "slug": "video-editing",
-      "description": "Professional video editing for marketing or branding.",
-      "price": 600
-    },
-    {
-      "name": "Social Media Management",
-      "slug": "social-media-management",
-      "description": "Manage and grow your social presence across platforms.",
-      "price": 700
-    },
-    {
-      "name": "Digital Marketing",
-      "slug": "digital-marketing",
-      "description": "Comprehensive ad campaigns and lead generation.",
-      "price": 1000
-    },
-    {
-      "name": "Cybersecurity Audit",
-      "slug": "cybersecurity-audit",
-      "description": "Identify vulnerabilities and secure your digital assets.",
-      "price": 1300
-    },
-    {
-      "name": "Maintenance & Support",
-      "slug": "maintenance-support",
-      "description": "24/7 technical support and performance optimization.",
-      "price": 400
-    },
-    {
-      "name": "Database Management",
-      "slug": "database-management",
-      "description": "Design, optimize, and maintain relational databases.",
-      "price": 850
-    },
-    {
-      "name": "Performance Optimization",
-      "slug": "performance-optimization",
-      "description": "Improve load times and overall application speed.",
-      "price": 500
-    },
-    {
-      "name": "Hosting Setup",
-      "slug": "hosting-setup",
-      "description": "Reliable and secure hosting configuration.",
-      "price": 250
-    },
-    {
-      "name": "Email Marketing",
-      "slug": "email-marketing",
-      "description": "Build targeted email campaigns to engage customers.",
-      "price": 350
-    },
-    {
-      "name": "Consultation & Training",
-      "slug": "consultation-training",
-      "description": "Personalized guidance on tech stack and best practices.",
-      "price": 200
+      "details": "Our graphic design services cover everything from brand collateral to social media visuals. We focus on consistency and storytelling through visuals.",
+      "price": 400,
+      "featured_image": "https://placehold.co/600x400?text=Graphic+Design",
+      "gallery_images": [
+        "https://placehold.co/600x400?text=Brand+Posters",
+        "https://placehold.co/600x400?text=Digital+Illustrations",
+        "https://placehold.co/600x400?text=Social+Designs"
+      ]
     }
   ]
 }
